@@ -6,3 +6,7 @@ downloads ie. has "spaceballed" it. The add-on allows you to get a
 direct link to the image into your clipboard or a shortened direct link to
 the image into your clipboard, save the image to local filesystem or
 open just the image (leaving all heavy Flickr junk behind) on a new tab.
+
+In my humble opinion you really should not rely so much on Flickr js-gizmos
+to keep your images safe. If you don't want them to spread, why upload them
+into the public Internet in the first place?
