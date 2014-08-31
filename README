@@ -1,0 +1,8 @@
+A Firefox (>= 29) add on: Save image files from Flickr even when "spaceballed".
+
+Add-on provides a context menu, only available on Flickr and on top of
+a full size image when the original image author has "disabled" image
+downloads ie. has "spaceballed" it. The add-on allows you to get a
+direct link to the image into your clipboard or a shortened direct link to
+the image into your clipboard, save the image to local filesystem or
+open just the image (leaving all heavy Flickr junk behind) on a new tab.
