@@ -1,0 +1,12 @@
+{
+  "author": "Sami Laine <laine.j.sami@gmail.com>",
+  "icon": "data/icon48.png",
+  "icon64": "data/icon48.png",
+  "id": "flickr-saver@sjl.kapsi.fi",
+  "description": "Saves full size images from Flickr even when author has \"disabled\" downloads.",
+  "fillName": "SJL's Flickr save cheater."
+  "license": "GPL 2.0",
+  "name": "sjl-flickr-saver",
+  "title": "sjl-flickr-saver",
+  "version": "0.1"
+}
