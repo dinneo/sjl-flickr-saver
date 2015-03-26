@@ -1,1 +1,2 @@
 0.1 - 08/31/2014 Initial commit.
+0.2.2 - 26/03/2015 Switched to Downloads.jsm fetch() for better compatibility.
