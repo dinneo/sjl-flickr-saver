@@ -1,6 +1,10 @@
+// flickr_browse_menu.js
+
 self.on('click',
   function (node, data) {
-    var target = node.childNodes[1].src;
-    self.postMessage({
-    action: data,
-    url: target }); });
+    var target = node.getElementsByClassName('overlay')[0].href + "sizes/l";
+    self.postMessage({ action: data, url: target });
+  }
+);
+
+// end of file.
