@@ -2,9 +2,14 @@
 
 self.on('click',
   function (node, data) {
+    tgt = window.location.href;
+    if (tgt.match(/(.*)\/in\/.*/))
+      tgt = tgt.replace(/(.*)\/in\/.*/, "$1" + "/sizes/l");
+    else
+      tgt = tgt + "/sizes/l";
     self.postMessage(
       { action: data,
-        url: window.location.href + "/sizes/l" }
+        url: tgt }
     );
   }
 );
