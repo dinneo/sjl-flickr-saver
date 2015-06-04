@@ -10,5 +10,5 @@
   "name": "sjl-flickr-saver",
   "permissions": { "private-browsing": true },
   "title": "SJL's Flickr Saver",
-  "version": "0.5.1"
+  "version": "0.5.2"
 }
