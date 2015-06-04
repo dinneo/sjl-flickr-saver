@@ -8,6 +8,7 @@
   "fullName": "SJL's Flickr save cheater.",
   "license": "GPL 2.0",
   "name": "sjl-flickr-saver",
+  "permissions": { "private-browsing": true },
   "title": "SJL's Flickr Saver",
-  "version": "0.5.0"
+  "version": "0.5.1"
 }

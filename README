@@ -1,11 +1,13 @@
-A Firefox (>= 29) add on: Save image files from Flickr even when "spaceballed".
+A Firefox (>= 26) add on: Quick context menu for saving/opening full
+size images from Flickr search results, photostreams, personal feeds
+and invidual image views, even when "spaceballed".
 
 Add-on provides a context menu, only available on Flickr and on top of
-a full size image when the original image author has "disabled" image
-downloads ie. has "spaceballed" it. The add-on allows you to get a
-direct link to the image into your clipboard or a shortened direct link to
-the image into your clipboard, save the image to local filesystem or
-open just the image (leaving all heavy Flickr junk behind) on a new tab.
+a full size image even when the original image author has "disabled" image
+downloads ie. has "spaceballed" it. The add-on allows you to get a direct
+link to the image into your clipboard or a shortened direct link to the
+image into your clipboard, save the image to local filesystem or open
+just the image (leaving all heavy Flickr junk behind) on a new tab.
 
 In my humble opinion you really should not rely so much on Flickr js-gizmos
 to keep your images safe. If you don't want them to spread, why upload them
